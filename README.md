@@ -20,4 +20,4 @@ my name is Blair. I study at NLS.
 - water
 - milk
 - juice
-*I am a mechanic*
+
