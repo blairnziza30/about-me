@@ -8,7 +8,7 @@ my name is Blair. I study at NLS.
 # My hobbies
 - play football
 - eat food
-- work out
+- working out
 # my Favourite food
 - Hamburger
 - pizza
@@ -20,3 +20,4 @@ my name is Blair. I study at NLS.
 - water
 - milk
 - juice
+*I am a mechanic*
